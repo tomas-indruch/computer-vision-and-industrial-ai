@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# import cv2
+import cv2
 
 # Read the original image
 img = cv2.imread('Assignment_3.jpg') 
