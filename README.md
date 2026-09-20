@@ -23,4 +23,4 @@ A multi-disciplinary repository covering machine learning classification, gradie
 * Gradient-based inspection pipeline implementing tuned Gaussian filtering, directional Sobel derivatives, and double-threshold Canny edge extraction[cite: 1].
 * Topological hierarchy extraction via `cv2.findContours` for automated geometric verification[cite: 1].
 
----
+Production Deploymenty pipeline would include GridSearchCV from Scikit-Learn for cross-validation and Data Scaling (StandardScaler), because KNN distance metric is extremely sensitive.
